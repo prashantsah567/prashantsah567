@@ -1,6 +1,7 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/82275480/150047423-5a2a8568-5e3d-43ff-8f93-07b4ed26561c.png)
 
-![image](https://user-images.githubusercontent.com/82275480/150046237-a434186f-239f-4eb7-ae32-0598e836c706.png)
+
 <!--
 **prashantsah567/prashantsah567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
