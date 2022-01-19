@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
-
+![image](https://user-images.githubusercontent.com/82275480/150046237-a434186f-239f-4eb7-ae32-0598e836c706.png)
 <!--
 **prashantsah567/prashantsah567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
