@@ -3,6 +3,7 @@
 
 Improving my coding skills everyday!!!
 
+LinkedIn - www.linkedin.com/in/sah001/   Email - prashantsah567@gmail.com
 
 <!--
 **prashantsah567/prashantsah567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
