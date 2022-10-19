@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+-> I'm a software developer pursuing my BTech degree (Junior) at City Tech <-
+
 LinkedIn - www.linkedin.com/in/sah001/   
 
 Portfolio Website - https://prashantsah567.github.io/
+
+Github - https://github.com/prashantsah567
 
 Email - prashantsah567@gmail.com
 
