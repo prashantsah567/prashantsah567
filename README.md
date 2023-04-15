@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--> A software developer pursuing my BTech degree at City Tech <-
+-> A software developer pursuing BTech degree at City Tech <-
 
 LinkedIn - www.linkedin.com/in/sah001/   
 
