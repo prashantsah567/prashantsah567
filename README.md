@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantsah567&label=Profile%20views&color=0e75b6&style=flat" alt="prashantsah567" /> </p>
 
-<p align="left"> <a href="https://twitter.com/prashan37149576" target="blank"><img src="https://img.shields.io/twitter/follow/prashan37149576?logo=twitter&style=for-the-badge" alt="prashan37149576" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/prashantsah567?tab=repositories](https://github.com/prashantsah567?tab=repositories)
 
 - 📫 How to reach me **prashantsah567@gmail.com**
