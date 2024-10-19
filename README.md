@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prashantsah567?tab=repositories](https://github.com/prashantsah567?tab=repositories)
 
-- 📫 How to reach me **prashantsah567@gmail.com**
+- 📫 Email: **prashantsah567@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
