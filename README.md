@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantsah567&label=Profile%20views&color=0e75b6&style=flat" alt="prashantsah567" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/prashantsah567?tab=repositories](https://github.com/prashantsah567?tab=repositories)
-
 - 📫 Email: **prashantsah567@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
