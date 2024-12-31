@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **prashantsah567@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1YWHuTrG-fQCwDh9MBeIk9dY6H4ljb9EmYeff9sMt3CU/edit?tab=t.0](https://docs.google.com/document/d/1YWHuTrG-fQCwDh9MBeIk9dY6H4ljb9EmYeff9sMt3CU/edit?tab=t.0)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1YWHuTrG-fQCwDh9MBeIk9dY6H4ljb9EmYeff9sMt3CU/edit?tab=t.0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
